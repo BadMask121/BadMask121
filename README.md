@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![BadMask121 github stats](https://github-readme-stats.vercel.app/api?username=BadMask121)](https://github.com/anuraghazra/github-readme-stats)
-https://github-profile-trophy.vercel.app/?BadMask121=ryo-ma&theme=onedark
+
