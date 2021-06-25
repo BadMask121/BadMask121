@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a couple top secret things 🤫
+<!-- - 🔭 I’m currently working on a couple top secret things 🤫 -->
 - 🌱 I’m currently learning anything (not restricted to just tech, im a free bird preferably an Eagle 🦅)
 - 👯 I’m looking to collaborate on what you are passionate about
 - 📫 How to reach me: <a href="mailto:jeffreyefemena4@gmail.com">Email</a>
@@ -27,7 +27,7 @@
 <!-- [![David Saint's github stats](https://github-readme-stats.vercel.app/api?username=david-saint)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[website]: https://davidsaint.dev
+<!-- [website]: https://davidsaint.dev -->
 [twitter]: https://twitter.com/BadMask121
 [instagram]: https://www.instagram.com/acecorps121/?hl=en
 [linkedin]: https://www.linkedin.com/in/jeffrey-emakpor-5536aa156/
