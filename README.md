@@ -8,9 +8,6 @@
 - ⚡ Fun fact: I suck at video games but still play them anyway
 
 
-### Spotify Playing 🎧
-[<img src="https://novatorem-git-master.david-saint.vercel.app/api/spotify" alt="Jeffrey Emakpor Spotify Playing" width="350" />](https://open.spotify.com/user/ztubwqe0b1e3upwsvamo3y1nf)
-
 ### Connect with me:
 [<img align="left" alt="Jeffrey Emakpor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jeffrey Emakpor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
