@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning anything (not restricted to just tech)
 - 👯 I’m looking to collaborate on what you are passionate about
 - 📫 How to reach me: <a href="mailto:jeffreyefemena4@gmail.com">Email</a>
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I suck at video games but still play them anyway
 
 
