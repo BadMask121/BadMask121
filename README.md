@@ -19,5 +19,4 @@
 [twitter]: https://twitter.com/BadMask121
 [instagram]: https://www.instagram.com/acecorps121/?hl=en
 [linkedin]: https://www.linkedin.com/in/jeffrey-emakpor-5536aa156/
-[![BadMask121 github stats](https://github-readme-stats.vercel.app/api?username=BadMask121)](https://github.com/anuraghazra/github-readme-stats)
 
