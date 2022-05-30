@@ -12,9 +12,6 @@
 [<img src="https://novatorem-git-master.david-saint.vercel.app/api/spotify" alt="Jeffrey Emakpor Spotify Playing" width="350" />](https://open.spotify.com/user/ztubwqe0b1e3upwsvamo3y1nf)
 
 ### Connect with me:
-
-[<img align="left" alt="Jeffrey Emakpor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="Jeffrey Emakpor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="Jeffrey Emakpor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jeffrey Emakpor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jeffrey Emakpor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
